@@ -1,4 +1,8 @@
 Understand-Anything Working Setup
+STEP:
+1. Install the required version as below
+2. enable Github CoPilot in VS Code (No need to take license)
+3. Go to your desired project in the VS  Code and ask the questions in the Github CoPilot as per below mentioned **Available Skills**
 
 Node Version: v22.23.0
 npm Version: 10.9.8
@@ -11,7 +15,7 @@ Status:
 - Skills loaded
 - Tested on Ubuntu VM
 
-Available Skills:
+**Available Skills:**
 - /understand
 - /understand-chat
 - /understand-dashboard
