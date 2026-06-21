@@ -1,8 +1,6 @@
 <h1 align="center">Understand Anything</h1>
 <h1 align="center">
-  🚨 <a href="https://github.com/Gudu435/understand-anything/blob/main/%3E%3E%3E%3E%3E%3EIMPORTANT_%201st%20page%20to%20follow_WORKING_SETUP.md">
-  IMPORTANT: Read WORKING_SETUP.md First
-  </a> 🚨
+<a href="IMPORTANT_WORKING_SETUP.md">🚨 IMPORTANT: Read This First 🚨</a>
 </h1>
 
 <p align="center">
