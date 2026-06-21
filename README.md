@@ -1,4 +1,9 @@
 <h1 align="center">Understand Anything</h1>
+<h1 align="center">
+  🚨 <a href="https://github.com/Gudu435/understand-anything/blob/main/%3E%3E%3E%3E%3E%3EIMPORTANT_%201st%20page%20to%20follow_WORKING_SETUP.md">
+  IMPORTANT: Read WORKING_SETUP.md First
+  </a> 🚨
+</h1>
 
 <p align="center">
   <strong>Turn any codebase, knowledge base, or docs into an interactive knowledge graph you can explore, search, and ask questions about.</strong>
