@@ -8,6 +8,8 @@
 
 **3. Go to your desired project in the VS  Code and ask the questions in the Github CoPilot as per below mentioned Available Skills**
 
+**4. Now go back to the Readme.md file and start from "Quick Start" part.**
+
 Node Version: v22.23.0
 npm Version: 10.9.8
 pnpm Version: 10.6.2
